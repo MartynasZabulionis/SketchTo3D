@@ -1,0 +1,4 @@
+﻿Para dibujar líneas apretar el izquierdo botón del ratón. 
+Para obtener el objeto 3D basado en líneas apretar el derecho botón del ratón.
+Para volver al inicio después de obtener el objeto 3D apretar cualquier botón
+del ratón.
